@@ -7,3 +7,4 @@
  The original paper presenting the method can be found in: 
  https://pubs.acs.org/doi/10.1021/acs.jctc.5b00003
   <br> <br>
+  [![HitCount](https://hits.dwyl.com/mcosta27/MDexciteR.svg?style=flat)](http://hits.dwyl.com/mcosta27/MDexciteR)
